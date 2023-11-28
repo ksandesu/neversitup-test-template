@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main(text []int) int {
+func FindOddNumber(text []int) int {
     // TODO : start your code here
 }

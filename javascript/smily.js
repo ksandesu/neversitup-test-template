@@ -3,6 +3,6 @@
  * @param {string[]} texts list of string [":)", ":(", ":>"]
  * @returns {number} amount of smily face detected
  */
-const main = (text) => {
+const countSmilyFace = (text) => {
     // TODO : start your code here
 }

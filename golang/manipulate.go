@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main(text []string) []string {
+func Manipulate(text []string) []string {
     // TODO : start your code here
 }
