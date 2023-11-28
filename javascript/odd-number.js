@@ -6,3 +6,8 @@
 const findOddNumber = (text) => {
     // TODO : start your code here
 }
+
+
+module.exports = {
+    findOddNumber
+}

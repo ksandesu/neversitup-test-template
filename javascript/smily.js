@@ -6,3 +6,7 @@
 const countSmilyFace = (text) => {
     // TODO : start your code here
 }
+
+module.exports = {
+    countSmilyFace
+}

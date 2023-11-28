@@ -6,3 +6,7 @@
 const manipulate = (text) => {
     // TODO : start your code here
 }
+
+module.exports = {
+    manipulate
+}
